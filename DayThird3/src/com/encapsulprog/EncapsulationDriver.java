@@ -1,7 +1,6 @@
-package com.encapsulProg;
+package com.encapsulprog;
 
 public class EncapsulationDriver {
-
 	public static void main(String[] args) {
 		//Object creation using new keyword
 		EncapsulationProg obj = new EncapsulationProg();

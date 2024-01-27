@@ -1,4 +1,4 @@
-package com.encapsulProg;
+package com.encapsulprog;
 
 public class EncapsulationProg {
 	private String Name;
@@ -38,8 +38,5 @@ public class EncapsulationProg {
 	  + ", Age=" + Age + ", BankName=" + BankName + ", Address=" + Address + "]"; 
 	  }
 	 
-	
-	
-		
-	
+
 }
