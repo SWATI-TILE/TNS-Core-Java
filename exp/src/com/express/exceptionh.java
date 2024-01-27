@@ -12,7 +12,7 @@ public class exceptionh {
 		System.out.println("inside constructor");
 		a=10;
 	}
-	public static void func()
+	public void func()
 	{
 		a=a+1;
 		System.out.println("a= "+a);
